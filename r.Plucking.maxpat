@@ -38,7 +38,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 855.0, 244.0, 150.0, 33.0 ],
-					"text" : "adrian@adrianfreed.com 2011"
+					"text" : "adrian@adrianfreed.com 2011, 2015"
 				}
 
 			}
@@ -622,49 +622,49 @@
 		"dependency_cache" : [ 			{
 				"name" : "v.sdif.resonance.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/patchers/players",
-				"patcherrelativepath" : "../../vdot/patchers/players",
+				"patcherrelativepath" : "../vdot/patchers/players",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "thru.maxpat",
 				"bootpath" : "/Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
-				"patcherrelativepath" : "../../../../../../../Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
+				"patcherrelativepath" : "../../../../../../Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "c.parentsize.js",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/javascript",
-				"patcherrelativepath" : "../../vdot/javascript",
+				"patcherrelativepath" : "../vdot/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "o.restransformmap.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/X/patchers",
-				"patcherrelativepath" : "../../X/patchers",
+				"patcherrelativepath" : "../X/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "v.pluck.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/patchers",
-				"patcherrelativepath" : "../../vdot/patchers",
+				"patcherrelativepath" : "../vdot/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "af.bpatcherresize.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/patchers",
-				"patcherrelativepath" : "../../vdot/patchers",
+				"patcherrelativepath" : "../vdot/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "v.show.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/patchers/players",
-				"patcherrelativepath" : "../../vdot/patchers/players",
+				"patcherrelativepath" : "../vdot/patchers/players",
 				"type" : "JSON",
 				"implicit" : 1
 			}

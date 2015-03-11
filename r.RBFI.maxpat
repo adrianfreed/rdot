@@ -49,12 +49,12 @@
 					"fontsize" : 12.0,
 					"frgb" : 0.0,
 					"id" : "obj-4",
-					"linecount" : 3,
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 109.0, 21.0, 150.0, 47.0 ],
-					"text" : "Resonance Interpolation using Radial Basis Function Control"
+					"patching_rect" : [ 109.0, 6.0, 349.0, 33.0 ],
+					"text" : "Resonance Interpolation using Radial Basis Function Control\nwith damping when you hold the mouse button down"
 				}
 
 			}
@@ -68,8 +68,8 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 272.0, 16.0, 150.0, 33.0 ],
-					"text" : "adrian@adrianfreed.com\n2011"
+					"patching_rect" : [ 234.0, 677.5, 150.0, 33.0 ],
+					"text" : "adrian@adrianfreed.com\n2011, 2015"
 				}
 
 			}
@@ -330,18 +330,6 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "signal", "signal", "signal", "signal" ],
 					"patching_rect" : [ 16.0, 507.0, 606.0, 143.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"data" : [ 593, "", "IBkSG0fBZn....PCIgDQRA...zF....LHX....vFnS+e....DLmPIQEBHf.B7g.YHB..BfPRDEDU3wY6bEsiCCBCKLc+++xbOwItcqkVHN1oGVZZRSCWZbLgNfUp0Z01HU3K1cfMLqTJC+N8dqOJZ2kjQs0Cy7Sk2qDqaeuV6esBIWssWky6bs9Oy6qO8gH.RtmAn5O2k2Yb0SWSalKVuE2KffyYwrIBm0++DmmJZpDLx.NpFFBG8epo4IVovKR7deHaImPEMTPsfLpYfdDfKZQ31Tv8FIBwoolyvSDsKyLhCOxxcftdVDIngIZnCNLRBXk3QchHOsZQQUFHTQSsZaqzeXlvQeJ+Qdyi7ZEYBY3hlm2brpqwdXc5NMy3GDVEQOrOEQSgZay1GTHASBmlY3CFn3mQBHMQyqa1HqqofKyLxNMEd.4U.qg4kY3wHwrKfqJftn4gaajHfHfybxTzEMD3ouzORHZYq1F6GYQBQKRb2.thaMAYDsUcaG0d0csy.YDMEghtLyDSzxVsMVPJQyLeEtUbJp5xLavlUMaY5n1bndBO5e+xogbsthpsHfJ2KGdpY73hfjiQbGc6tB7lix9jflOH2DQ1XL1hVBwVzRH1hVBwVzRH1hVBws+KoX0mPXzuH.5spcV4um2ScZ0Z8mWdidNQehZP0+QFaNi6gCOVJkTtmAabiLgqEWP7O1P+6uC5G0ITBWi6mxgtnGCEMTCAzPV2bosQfXrpBzVZldtQu6oxF+i3b+CFmP7MQ+TMlEbQ3RG.....IUjSD4pPfIH" ],
-					"embed" : 1,
-					"id" : "obj-2",
-					"maxclass" : "fpic",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 446.0, 241.0, 109.0, 48.0 ]
 				}
 
 			}
@@ -660,42 +648,42 @@
 		"dependency_cache" : [ 			{
 				"name" : "rbf.js",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/hybridization/jsui",
-				"patcherrelativepath" : "../../hybridization/jsui",
+				"patcherrelativepath" : "../hybridization/jsui",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ResonanceMorphing.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/X/patchers",
-				"patcherrelativepath" : "../../X/patchers",
+				"patcherrelativepath" : "../X/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "v.sdif.resonance.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/patchers/players",
-				"patcherrelativepath" : "../../vdot/patchers/players",
+				"patcherrelativepath" : "../vdot/patchers/players",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "thru.maxpat",
 				"bootpath" : "/Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
-				"patcherrelativepath" : "../../../../../../../Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
+				"patcherrelativepath" : "../../../../../../Applications/Max 6.1/patches/m4l-patches/Pluggo for Live resources/patches",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "c.parentsize.js",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/vdot/javascript",
-				"patcherrelativepath" : "../../vdot/javascript",
+				"patcherrelativepath" : "../vdot/javascript",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "o.restransformmap.maxpat",
 				"bootpath" : "/Users/adrian2013/Documents/Max/Packages/X/patchers",
-				"patcherrelativepath" : "../../X/patchers",
+				"patcherrelativepath" : "../X/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
